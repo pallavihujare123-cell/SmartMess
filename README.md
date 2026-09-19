@@ -682,37 +682,6 @@ The main goals of SmartMess are:
 
 ---
 
-# 💼 Resume Description
-
-**SmartMess — AI-Powered Hostel Mess & Tiffin Management Platform**
-
-Developed a full-stack platform to digitize hostel mess operations including subscriptions, meal attendance, meal skipping, billing, payments, complaints, and feedback. Built RESTful APIs using Django REST Framework and an interactive React.js dashboard for student and administrative workflows. Designed a relational MySQL database with role-based authentication and integrated machine-learning and AI modules for food demand prediction and feedback analysis.
-
----
-
-# 🌟 Why SmartMess?
-
-SmartMess combines:
-
-```text
-Full-Stack Development
-        +
-Database Management
-        +
-REST APIs
-        +
-Authentication
-        +
-Data Analytics
-        +
-Machine Learning
-        +
-AI Integration
-```
-
-The project focuses on solving a **real-world operational problem** rather than being a simple CRUD application.
-
----
 
 # 👩‍💻 Developer
 
